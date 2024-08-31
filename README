@@ -60,7 +60,7 @@ OPTIONS
 -o FILE
 	Output file. Default is stdout.
 
--fprof N
+-fprob N
 	The probability (where N is between 0 and 1) that any effects
 	will take place on a given frame
 
